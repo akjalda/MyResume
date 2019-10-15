@@ -1,0 +1,61 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+}
+
+#container1 {
+    background-image: url("images/bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+
+#container2 {
+    background-image: url("images/bg2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+
+#myimg {
+    align-content: center;
+    padding: 10px;
+}
+
+.page-footer {
+    background-color: tealS;
+}
+
+#footer-1 {
+    background-color: rgba(0, 128, 128, 0.37);
+}
+
+#footer-2 {
+    background-color: rgba(216, 191, 216, 0.336);
+}
+
+#footer-3 {
+    background-color: rgba(0, 128, 128, 0.37);
+}
+
+/*footer social media icons*/
+
+.fa-facebook {
+    padding: 15px;
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    padding: 15px;
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    padding: 15px;
+    background: #f40083;
+    color: white;
+}
