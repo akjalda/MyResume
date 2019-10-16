@@ -4,28 +4,15 @@ body {
 }
 
 #container1 {
-    background-image: url("images/bg1.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 200px;
+    background-color: rgb(0, 102, 255);
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 #container2 {
-    background-image: url("images/bg2.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 200px;
-}
-
-#myimg {
-    align-content: center;
-    padding: 10px;
-}
-
-.page-footer {
-    background-color: tealS;
+    background-color: rgb(0, 255, 191);
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 #footer-1 {
