@@ -3,30 +3,58 @@ body {
     position: relative;
 }
 
+#container {
+    background-image: url("images/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 #container1 {
-    background-color: rgb(0, 102, 255);
+    background-image: url("images/bg2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;
 }
+#container1-data{
+    background-color: rgba(255, 255, 255, 0.288);
+    padding: 100px;
 
+    
+}
 #container2 {
-    background-color: rgb(0, 255, 191);
+    background-image: url("images/bg3.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding-top: 200px;
     padding-bottom: 200px;
 }
 
-#footer-1 {
-    background-color: rgba(0, 128, 128, 0.37);
+#container2-data {
+    background-color: rgba(255, 255, 255, 0.459);
+    padding: 80px;
 }
 
-#footer-2 {
-    background-color: rgba(216, 191, 216, 0.336);
+#container3-data{
+    padding: 25px;
 }
-
-#footer-3 {
-    background-color: rgba(0, 128, 128, 0.37);
+#footer-1{
+    padding: 10px;
+    background-color: gainsboro;
 }
-
+#footer-2{
+    padding: 10px;
+    background-color: rgb(160, 153, 153);
+}
+#footer-3{
+    padding: 10px;
+    background-color: gainsboro;
+}
 /*footer social media icons*/
 
 .fa-facebook {
@@ -46,3 +74,4 @@ body {
     background: #f40083;
     color: white;
 }
+
